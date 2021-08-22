@@ -11,8 +11,8 @@ import java.util.stream.Collectors;
 public class OrderController {
     @RequestMapping(value="/getOrder", method = RequestMethod.GET)
     public List<String> getOrder(){
-        List<String> orders = Arrays.asList("Electronics", "Office Supplies", "Toys");
-        orders.stream().forEach(System.out::println);
-        return orders.stream().collect(Collectors.toList());
+        List<String> ordersList = Arrays.asList("Electronics", "Office Supplies", "Toys");
+        ordersList.stream().forEach(System.out::println);
+        return ordersList.stream().collect(Collectors.toList());
     }
 }
