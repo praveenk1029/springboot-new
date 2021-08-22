@@ -5,3 +5,4 @@ This project contains Product Management System for an e-commerce website.
 3. They can search for products based on categories such as Electronics, Food, Sports, Clothes etc.
 4. The customers can add items to their cart.
 5. The Customers can checkout the items or save for later use.
+6. Once the items in the cart are finalized, they can navigate to Payment process.
