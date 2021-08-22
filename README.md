@@ -6,3 +6,4 @@ This project contains Product Management System for an e-commerce website.
 4. The customers can add items to their cart.
 5. The Customers can checkout the items or save for later use.
 6. Once the items in the cart are finalized, they can navigate to Payment process.
+7. Once the payment is complete, assign the Delivery options.
