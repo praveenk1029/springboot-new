@@ -41,13 +41,4 @@ public class Customer {
     public Customer() {
     }
     
-    @Override
-    public String toString() {
-        return "Customer{" +
-                "customerId=" + customerId +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", city='" + city + '\'' +
-                '}';
-    }
 }
