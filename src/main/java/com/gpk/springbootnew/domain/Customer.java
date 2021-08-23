@@ -40,7 +40,7 @@ public class Customer {
     }
     public Customer() {
     }
-<<<<<<< HEAD
+    
     @Override
     public String toString() {
         return "Customer{" +
@@ -50,7 +50,7 @@ public class Customer {
                 ", city='" + city + '\'' +
                 '}';
     }
-    
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
